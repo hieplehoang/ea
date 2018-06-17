@@ -1,0 +1,12 @@
+email: hoangnhuocquy00@gmail.com
+pass: Anhthats1152
+pass2: hieple
+trading pass: HiepTrade1152
+investor pass: HiepInves1152
+
+
+demo
+LOGIN: 8017399
+PASSWORD: HiepTrade1152
+INVESTOR PASSWORD: HiepInves1152
+SERVER: mt4trial2.exness.com:443

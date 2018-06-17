@@ -1,0 +1,12 @@
+config
+history
+logs
+profiles
+tester
+Include
+Indicators
+Libraries
+Presets
+Projects
+Scripts
+*.ex4
