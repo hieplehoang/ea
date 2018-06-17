@@ -45,7 +45,7 @@ int currentMACrossOver(int maPeriodFast, int maPeriodMedium, int maPeriodLow){
 
    //Print(maFast[0],"|",maFast[1],"|",maFast[2],"|",maFast[3],"|",maFast[4],"|",maFast[5],"|",maFast[6],"|",maFast[7],"|",maFast[8],"|",maFast[9]);  
    int maDirection = 0;
-   int x = 2;
+   int x = 1;
    while (x >= 0) {
       if (maFast[x] >= maLow[x]
             && maFast[x+1] < maLow[x+1]) {
@@ -57,7 +57,7 @@ int currentMACrossOver(int maPeriodFast, int maPeriodMedium, int maPeriodLow){
       x--;
    }
    
-   int y = 2;
+   int y = 1;
    while (y >= 0) {
       if (maMedium[y] >= maLow[y]
             && maMedium[y+1] < maLow[y+1]) {
